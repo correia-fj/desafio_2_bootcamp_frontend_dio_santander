@@ -16,4 +16,6 @@ Sigam as intruções da chamada do vídeo. Acredito que por lá, ficará mais f�
 - [Download do NVDA](https://www.nvaccess.org/download/)
 - [Wikipedia](https://pt.wikipedia.org/)
 
+## Resultado Final
+![Screenshot 2025-06-24 at 11-44-58 The Chosen](https://github.com/user-attachments/assets/774f577a-8204-4bb9-b3f1-12a74f4a6419)
 
