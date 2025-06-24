@@ -5,7 +5,8 @@
 
 ## Resultado Final
 
-![Screenshot 2025-06-24 at 11-49-55 The Chosen](https://github.com/user-attachments/assets/4649d259-77a6-44e6-a24f-7164704b2407)
+![Screenshot 2025-06-24 at 11-55-43 The Chosen](https://github.com/user-attachments/assets/361c6a54-b1ad-4e67-b1d1-187f36dd1814)
+
 
 ## Objetivo
 Este desafio consiste em treinar você com relação a estrutura do site, e também aplicar conhecimentos adiquiridos sobre semântica e acessibilidade.
