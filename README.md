@@ -2,6 +2,11 @@
 
 **Título:** Recriando Wikipedia, com um layout melhor :)
 
+
+## Resultado Final
+
+![Screenshot 2025-06-24 at 11-49-55 The Chosen](https://github.com/user-attachments/assets/4649d259-77a6-44e6-a24f-7164704b2407)
+
 ## Objetivo
 Este desafio consiste em treinar você com relação a estrutura do site, e também aplicar conhecimentos adiquiridos sobre semântica e acessibilidade.
 
@@ -16,6 +21,5 @@ Sigam as intruções da chamada do vídeo. Acredito que por lá, ficará mais f�
 - [Download do NVDA](https://www.nvaccess.org/download/)
 - [Wikipedia](https://pt.wikipedia.org/)
 
-## Resultado Final
-![Screenshot 2025-06-24 at 11-44-58 The Chosen](https://github.com/user-attachments/assets/774f577a-8204-4bb9-b3f1-12a74f4a6419)
+
 
